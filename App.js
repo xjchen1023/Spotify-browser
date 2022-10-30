@@ -24,7 +24,6 @@ const List = ({tracks}) => {
     )
   }
 
-  console.log(tracks)
   // FlatList data={tracks}
   return(
     <View style={styles.container}>
